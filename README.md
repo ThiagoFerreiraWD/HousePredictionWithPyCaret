@@ -2,7 +2,8 @@
 
 Aplicação de algoritmos de Machine Learning para efetuar a previsão do valor de um imóvel, baseado em diversas características.
 
-![gifBanner](https://user-images.githubusercontent.com/54869201/157147516-508d1164-dd12-445c-bdf0-e2416fab465b.gif)
+![image](https://user-images.githubusercontent.com/54869201/218162721-57eefd99-587d-4cbc-b5a6-b3c3a75ef3e5.png)
+
 
 ## Ferramentas e linguagens utilizadas:
 
@@ -11,6 +12,7 @@ Aplicação de algoritmos de Machine Learning para efetuar a previsão do valor 
     
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
 
 
@@ -27,6 +29,10 @@ Aplicação de algoritmos de Machine Learning para efetuar a previsão do valor 
     <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
   </a> 
   <a href = "https://github.com/ThiagoFerreiraWD">
-    <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />      
   </a>     
+
+      
+
+    
 </div>
